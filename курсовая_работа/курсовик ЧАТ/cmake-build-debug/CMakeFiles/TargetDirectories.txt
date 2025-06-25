@@ -1,5 +1,0 @@
-/Users/ivansalukhov/Desktop/projects vs/c/курсовик ЧАТ/cmake-build-debug/CMakeFiles/server.dir
-/Users/ivansalukhov/Desktop/projects vs/c/курсовик ЧАТ/cmake-build-debug/CMakeFiles/client.dir
-/Users/ivansalukhov/Desktop/projects vs/c/курсовик ЧАТ/cmake-build-debug/CMakeFiles/test.dir
-/Users/ivansalukhov/Desktop/projects vs/c/курсовик ЧАТ/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ivansalukhov/Desktop/projects vs/c/курсовик ЧАТ/cmake-build-debug/CMakeFiles/rebuild_cache.dir
