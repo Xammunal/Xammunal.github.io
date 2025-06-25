@@ -1,0 +1,3 @@
+C:/Users/pa6o4/CLionProjects/arcan/cmake-build-debug-mingw/CMakeFiles/TestTinyArkanoid.dir
+C:/Users/pa6o4/CLionProjects/arcan/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/pa6o4/CLionProjects/arcan/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir

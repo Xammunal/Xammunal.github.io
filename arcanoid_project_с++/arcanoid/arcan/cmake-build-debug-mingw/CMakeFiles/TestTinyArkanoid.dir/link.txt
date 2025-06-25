@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2022.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\TestTinyArkanoid.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\ar.exe qc CMakeFiles\TestTinyArkanoid.dir/objects.a @CMakeFiles\TestTinyArkanoid.dir\objects1.rsp
+C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE  -std=c++11 -g -Wl,--whole-archive CMakeFiles\TestTinyArkanoid.dir/objects.a -Wl,--no-whole-archive -o ..\TestTinyArkanoid.exe -Wl,--out-implib,libTestTinyArkanoid.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TestTinyArkanoid.dir\linklibs.rsp
